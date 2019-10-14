@@ -1,0 +1,30 @@
+@import url(http://allfont.ru/allfont.css?fonts=a_cooperblack);
+@import url(http://allfont.ru/allfont.css?fonts=freestyle-script-normal);
+.content{
+    z-index: 0;
+    position: absolute;
+    padding: 0 2% 2% 2%; //верх-право-низ-лево
+    border-radius: 12px;
+    background-color: rgba(186, 137, 65, 0.7);
+    width: 73%;
+    height: 75%;
+    margin-top: 6%;
+    margin-left: 13.5%;
+    overflow-y: auto;
+}
+
+h2{
+    margin-left: 8%; 
+    font-size: 35px; 
+    text-shadow: 4px 1px 3px #A01111;
+    font-family: 'Lobster', cursive;
+    color: #FF8000; 
+}
+p{
+    font-size: 20px; 
+    color: white; 
+    font-family: 'century schoolbook', sans-serif;
+    text-align:justify;
+    margin: 20px;
+    text-indent:  1.5em;
+}
