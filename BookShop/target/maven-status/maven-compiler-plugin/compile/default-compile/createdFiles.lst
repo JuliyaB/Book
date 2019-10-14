@@ -1,9 +1,0 @@
-org\o7planning\form\AuthorForm.class
-org\o7planning\model\Author.class
-org\o7planning\form\BookForm.class
-org\o7planning\controller\MainControllerAuthor.class
-org\o7planning\dao\AuthorDao.class
-org\o7planning\controller\MainControllerBook.class
-org\o7planning\controller\IndexController.class
-org\o7planning\model\Book.class
-org\o7planning\SpringBootThymeleafApplication.class
